@@ -1,2 +1,7 @@
-# brain-mush
-To turn your brain to mush, you have to learn first!
+# All-RAG 笔记
+
+一代人有一代人的上甘岭, 既然我还没有真实的投入到上甘岭战役中，那不如现在就准备起来，迎接那一场一定会到来的战斗。
+
+**重点**
+- 巩固基础
+- 实践 实践 实践
